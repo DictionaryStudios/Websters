@@ -572,21 +572,7 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {1: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    4: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    7: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    13: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    14: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    19: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    21: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    25: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    27: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    28: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    29: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    30: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    31: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    32: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER,
-    33: PHOTON_UNITY_NETWORKING;PUN_2_0_OR_NEWER;PUN_2_OR_NEWER;PUN_2_19_OR_NEWER}
+  scriptingDefineSymbols: {}
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
@@ -625,8 +611,7 @@ PlayerSettings:
   metroDefaultTileSize: 1
   metroTileForegroundText: 2
   metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
-  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628,
-    a: 1}
+  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities: {}
   metroTargetDeviceFamilies: {}
@@ -653,13 +638,31 @@ PlayerSettings:
   XboxOneIsContentPackage: 0
   XboxOneEnhancedXboxCompatibilityMode: 0
   XboxOneEnableGPUVariability: 1
-  XboxOneSockets: {WwiseCommandSocket: {m_Name: WwiseCommandSocket, m_Port: 24025,
-      m_Protocol: 0, m_Usages: 00000000010000000400000007000000, m_TemplateName: WwiseCommand,
-      m_SessionRequirment: 0, m_DeviceUsages: 00000000}, WwiseDiscoverySocket: {m_Name: WwiseDiscoverySocket,
-      m_Port: 24024, m_Protocol: 1, m_Usages: 00000000010000000400000007000000, m_TemplateName: WwiseDiscovery,
-      m_SessionRequirment: 0, m_DeviceUsages: 00000000}, WwiseNotificationSocket: {
-      m_Name: WwiseNotificationSocket, m_Port: 24026, m_Protocol: 0, m_Usages: 00000000010000000400000007000000,
-      m_TemplateName: WwiseNotification, m_SessionRequirment: 0, m_DeviceUsages: 00000000}}
+  XboxOneSockets:
+    WwiseCommandSocket:
+      m_Name: WwiseCommandSocket
+      m_Port: 24025
+      m_Protocol: 0
+      m_Usages: 00000000010000000400000007000000
+      m_TemplateName: WwiseCommand
+      m_SessionRequirment: 0
+      m_DeviceUsages: 00000000
+    WwiseDiscoverySocket:
+      m_Name: WwiseDiscoverySocket
+      m_Port: 24024
+      m_Protocol: 1
+      m_Usages: 00000000010000000400000007000000
+      m_TemplateName: WwiseDiscovery
+      m_SessionRequirment: 0
+      m_DeviceUsages: 00000000
+    WwiseNotificationSocket:
+      m_Name: WwiseNotificationSocket
+      m_Port: 24026
+      m_Protocol: 0
+      m_Usages: 00000000010000000400000007000000
+      m_TemplateName: WwiseNotification
+      m_SessionRequirment: 0
+      m_DeviceUsages: 00000000
   XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
