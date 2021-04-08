@@ -8,9 +8,9 @@
   <CreateWwiseListener>true</CreateWwiseListener>
   <ShowMissingRigidBodyWarning>true</ShowMissingRigidBodyWarning>
   <ShowSpatialAudioWarningMsg>true</ShowSpatialAudioWarningMsg>
-  <WwiseInstallationPathMac>/Volumes/External Drive 1/SoundDesign/WWise/Wwise.app</WwiseInstallationPathMac>
+  <WwiseInstallationPathMac>/Volumes/External Drive 1/SoundDesign/Wwise/Wwise.app</WwiseInstallationPathMac>
   <WwiseInstallationPathWindows />
-  <WwiseProjectPath>../../../WwiseProjects/Websters/Websters.wproj</WwiseProjectPath>
+  <WwiseProjectPath>../../Websters/Webster/Webster.wproj</WwiseProjectPath>
   <UseWaapi>true</UseWaapi>
   <WaapiPort>8080</WaapiPort>
   <WaapiIP>127.0.0.1</WaapiIP>

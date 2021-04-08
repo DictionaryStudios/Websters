@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{68677CDD-E549-4020-AA8E-EA267AC93362}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{68677CDD-E549-4020-AA8E-EA267AC93362}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="AlienFS" ID="{5B4770AE-B2CA-4DBC-94C0-4B1DDC6D92D3}">
+					<ChildrenList>
+						<Action Name="" ID="{E822FF89-6BC4-4385-94BB-AC84130D49F6}" ShortID="156384399">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AlienFS" ID="{92DC3502-CA67-451D-BC46-03058DB09A5E}" WorkUnitID="{16BA2201-A3CA-4F8C-845B-17F74EF9A834}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="RobotFS" ID="{B7405C7E-49C8-42E3-92CF-2E3F0B2F1485}">
+					<ChildrenList>
+						<Action Name="" ID="{9D0334CA-A741-491A-AF44-62A6562B7F4F}" ShortID="470929087">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="RobotFS" ID="{E70C06A6-FBD4-42D5-ABA6-34EADF45FFFB}" WorkUnitID="{16BA2201-A3CA-4F8C-845B-17F74EF9A834}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Main_Theme" ID="{98BA30F2-B838-432A-9641-F58BAD1765AA}">
+					<ChildrenList>
+						<Action Name="" ID="{C55B2EE5-9ABA-45A5-8489-7B51449F09DC}" ShortID="116445439">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Surround" ID="{3BAFE6D7-A82C-441E-A740-232050DDF9C0}" WorkUnitID="{16BA2201-A3CA-4F8C-845B-17F74EF9A834}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/sean/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Websters/Webster/</ProjectRoot>
+		<SourceFilesRoot>/Users/sean/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Websters/Webster/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/sean/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Websters/Webster/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/sean/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Websters/Webster/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="1958929096">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2385628198" Language="SFX" Hash="3465301553">
+			<ObjectPath>\SoundBanks\Default Work Unit\Footsteps</ObjectPath>
+			<ShortName>Footsteps</ShortName>
+			<Path>Footsteps.bnk</Path>
+			<IncludedEvents>
+				<Event Id="534461155" Name="AlienFS" ObjectPath="\Events\Default Work Unit\AlienFS" DurationType="OneShot" DurationMin="0.743039" DurationMax="0.743039">
+					<IncludedMemoryFiles>
+						<File Id="761529798" Language="SFX">
+							<ShortName>AlienFS4.wav</ShortName>
+							<Path>SFX/AlienFS4_10C4C929.wem</Path>
+						</File>
+						<File Id="880745434" Language="SFX">
+							<ShortName>AlienFS3.wav</ShortName>
+							<Path>SFX/AlienFS3_10C4C929.wem</Path>
+						</File>
+						<File Id="998934279" Language="SFX">
+							<ShortName>AlienFS2.wav</ShortName>
+							<Path>SFX/AlienFS2_10C4C929.wem</Path>
+						</File>
+						<File Id="1067938034" Language="SFX">
+							<ShortName>AlienFS1.wav</ShortName>
+							<Path>SFX/AlienFS1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1069392698" Name="RobotFS" ObjectPath="\Events\Default Work Unit\RobotFS" DurationType="OneShot" DurationMin="0.743039" DurationMax="0.743039">
+					<IncludedMemoryFiles>
+						<File Id="345604535" Language="SFX">
+							<ShortName>RobotFS2.wav</ShortName>
+							<Path>SFX/RobotFS2_10C4C929.wem</Path>
+						</File>
+						<File Id="640953332" Language="SFX">
+							<ShortName>RobotFS3.wav</ShortName>
+							<Path>SFX/RobotFS3_10C4C929.wem</Path>
+						</File>
+						<File Id="942747175" Language="SFX">
+							<ShortName>RobotFS1.wav</ShortName>
+							<Path>SFX/RobotFS1_10C4C929.wem</Path>
+						</File>
+						<File Id="1029098199" Language="SFX">
+							<ShortName>RobotFS4.wav</ShortName>
+							<Path>SFX/RobotFS4_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="345604535" Language="SFX">
+					<ShortName>RobotFS2.wav</ShortName>
+					<Path>SFX/RobotFS2_10C4C929.wem</Path>
+				</File>
+				<File Id="640953332" Language="SFX">
+					<ShortName>RobotFS3.wav</ShortName>
+					<Path>SFX/RobotFS3_10C4C929.wem</Path>
+				</File>
+				<File Id="761529798" Language="SFX">
+					<ShortName>AlienFS4.wav</ShortName>
+					<Path>SFX/AlienFS4_10C4C929.wem</Path>
+				</File>
+				<File Id="880745434" Language="SFX">
+					<ShortName>AlienFS3.wav</ShortName>
+					<Path>SFX/AlienFS3_10C4C929.wem</Path>
+				</File>
+				<File Id="942747175" Language="SFX">
+					<ShortName>RobotFS1.wav</ShortName>
+					<Path>SFX/RobotFS1_10C4C929.wem</Path>
+				</File>
+				<File Id="998934279" Language="SFX">
+					<ShortName>AlienFS2.wav</ShortName>
+					<Path>SFX/AlienFS2_10C4C929.wem</Path>
+				</File>
+				<File Id="1029098199" Language="SFX">
+					<ShortName>RobotFS4.wav</ShortName>
+					<Path>SFX/RobotFS4_10C4C929.wem</Path>
+				</File>
+				<File Id="1067938034" Language="SFX">
+					<ShortName>AlienFS1.wav</ShortName>
+					<Path>SFX/AlienFS1_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX" Hash="2242518478">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2557777556" Name="Main_Theme" ObjectPath="\Events\Default Work Unit\Main_Theme" DurationType="OneShot" DurationMin="118.758186" DurationMax="118.758186">
+					<IncludedMemoryFiles>
+						<File Id="639533644" Language="SFX">
+							<ShortName>Surround.wav</ShortName>
+							<Path>SFX/Surround_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="639533644" Language="SFX">
+					<ShortName>Surround.wav</ShortName>
+					<Path>SFX/Surround_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

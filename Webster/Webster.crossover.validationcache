@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Webster.wproj" DateLow="1617916693" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Webster.crossover.wsettings" DateLow="1617916945" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1617914173" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Virtual Acoustics\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Triggers\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Switches\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\States\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\SoundBanks\Default Work Unit.wwu" DateLow="1617916316" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Queries\Factory Queries.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Queries\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Presets\Factory Spatial Audio.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Presets\Factory Reflect.wwu" DateLow="1617914173" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Presets\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Modulators\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Mixing Sessions\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Metadata\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1617916316" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1617914173" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Game Parameters\Factory Motion.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Game Parameters\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Events\Default Work Unit.wwu" DateLow="1617916316" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory Reflect.wwu" DateLow="1617914173" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory McDSP Effects.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory Mastering Suite.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory iZotope Filters.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory iZotope Dynamics.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory iZotope Delay.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory iZotope Box Modeler.wwu" DateLow="1617916940" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory Effects.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Factory Auro Headphone.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Effects\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1617914172" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Conversion Settings\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Control Surface Sessions\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Audio Devices\Default Work Unit.wwu" DateLow="1617916316" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Attenuations\Default Work Unit.wwu" DateLow="1617914408" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1617914173" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1617914173" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1617916316" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Websters\Webster\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1617916316" DateHigh="0"/>
+</ValidationCache>

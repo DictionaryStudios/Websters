@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{16BA2201-A3CA-4F8C-845B-17F74EF9A834}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{16BA2201-A3CA-4F8C-845B-17F74EF9A834}" PersistMode="Standalone">
+			<ChildrenList>
+				<RandomSequenceContainer Name="AlienFS" ID="{92DC3502-CA67-451D-BC46-03058DB09A5E}" ShortID="725918973">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="AlienFS1" ID="{7A24ECCE-E667-4C69-837D-969E81036163}" ShortID="486864958">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="AlienFS1" ID="{97722E88-55F7-48C4-A765-3713D7A88E5B}">
+									<Language>SFX</Language>
+									<AudioFile>AlienFS1.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1067938034"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="AlienFS1" ID="{97722E88-55F7-48C4-A765-3713D7A88E5B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="AlienFS2" ID="{22D713B2-CCD1-47D6-8B48-F4E2C7F69D70}" ShortID="813819921">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="AlienFS2" ID="{4A82E853-B497-44EF-8E9D-B0AB371CABF9}">
+									<Language>SFX</Language>
+									<AudioFile>AlienFS2.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="998934279"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="AlienFS2" ID="{4A82E853-B497-44EF-8E9D-B0AB371CABF9}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="AlienFS3" ID="{A6FCFA64-607D-4E29-B6AD-8A05CB69EC1B}" ShortID="737625835">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="AlienFS3" ID="{135B4CB5-50F7-4AFC-8A89-EEC493EFD5E4}">
+									<Language>SFX</Language>
+									<AudioFile>AlienFS3.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="880745434"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="AlienFS3" ID="{135B4CB5-50F7-4AFC-8A89-EEC493EFD5E4}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="AlienFS4" ID="{46059903-3A3A-4D18-B3CB-26487722C90D}" ShortID="838896754">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="AlienFS4" ID="{76890663-4ABF-469A-AFDE-7070F21B4CA1}">
+									<Language>SFX</Language>
+									<AudioFile>AlienFS4.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="761529798"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="AlienFS4" ID="{76890663-4ABF-469A-AFDE-7070F21B4CA1}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists/>
+				</RandomSequenceContainer>
+				<RandomSequenceContainer Name="RobotFS" ID="{E70C06A6-FBD4-42D5-ABA6-34EADF45FFFB}" ShortID="1010473822">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="RobotFS1" ID="{FC50C036-ED8B-4A55-BDB9-7204EA6C92B3}" ShortID="1039400806">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="RobotFS1" ID="{E3E0DA6E-DA0B-4CD2-B7CF-892AE9CE59FD}">
+									<Language>SFX</Language>
+									<AudioFile>RobotFS1.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="942747175"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="RobotFS1" ID="{E3E0DA6E-DA0B-4CD2-B7CF-892AE9CE59FD}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="RobotFS2" ID="{4D786EBA-1D3B-497C-ABA1-B64A32D3E97A}" ShortID="564860610">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="RobotFS2" ID="{7E1F6109-1B49-4B79-8F3B-F5C3726BA7B1}">
+									<Language>SFX</Language>
+									<AudioFile>RobotFS2.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="345604535"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="RobotFS2" ID="{7E1F6109-1B49-4B79-8F3B-F5C3726BA7B1}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="RobotFS3" ID="{012F687F-CD38-4227-A893-8AB533FA5D0B}" ShortID="19552935">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="RobotFS3" ID="{EFF1BA6D-FFB3-4A69-B027-DE4B7B7C66CC}">
+									<Language>SFX</Language>
+									<AudioFile>RobotFS3.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="640953332"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="RobotFS3" ID="{EFF1BA6D-FFB3-4A69-B027-DE4B7B7C66CC}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="RobotFS4" ID="{FAAF9B16-3F12-4ED7-9954-FB7617DA0E98}" ShortID="716379834">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="RobotFS4" ID="{2B798284-D991-4BBF-8412-BFC69DBC2125}">
+									<Language>SFX</Language>
+									<AudioFile>RobotFS4.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1029098199"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="RobotFS4" ID="{2B798284-D991-4BBF-8412-BFC69DBC2125}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists/>
+				</RandomSequenceContainer>
+				<Folder Name="New Virtual Folder" ID="{2348CBED-22BD-430F-8BE6-5E277CBEE018}" ShortID="549519022"/>
+				<Sound Name="Surround" ID="{3BAFE6D7-A82C-441E-A740-232050DDF9C0}" ShortID="777080247">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Surround" ID="{A46199A0-E24E-4999-A374-841E4239576D}">
+							<Language>SFX</Language>
+							<AudioFile>Surround.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="639533644"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Surround" ID="{A46199A0-E24E-4999-A374-841E4239576D}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
