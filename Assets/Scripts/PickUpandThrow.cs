@@ -6,12 +6,15 @@ public class PickUpandThrow : MonoBehaviour
 {
 
     public GameObject startpoint;
+    //usually the head of player or where the camera is located
     public GameObject endpoint;
+    //the hand
     private Vector3 direction;
     public float yeetpwr;
     private bool isholdingitem = false;
     private GameObject helditem;
     private Rigidbody helditemrb;
+    //rigidbody of object you pick up
     // Start is called before the first frame update
     void Start()
     {
@@ -24,40 +27,38 @@ public class PickUpandThrow : MonoBehaviour
         if (isholdingitem == true)
         {
             
-            if (Input.GetKey("q"))
+            if (Input.GetKey("f"))
             {
                 ThrowObject();
 
             }
+            else if (Input.GetKey("q"))
+            {
+                 DropObject();
+            }
         }
+        
 
     }
      void OnTriggerStay(Collider other)
     {
         if (other.gameObject.tag == "canpickup")
         {
-            helditem = other.gameObject;
-            helditemrb = helditem.GetComponent<Rigidbody>();
-            Debug.Log("Press 'E' to Pick Up" + other.gameObject.name);
-            if (Input.GetKey("e"))
+            
+            //Debug.Log("Press 'E' to Pick Up" + other.gameObject.name);
+            if (Input.GetKeyDown("e"))
             {
+                helditem = other.gameObject;
+                helditemrb = helditem.GetComponent<Rigidbody>();
+                
                 if (isholdingitem == false)
                 {
-
-                    Debug.Log("Picked Up");
-
+                    Debug.Log("Picked Up" + helditem.gameObject.name);
                     helditem.transform.SetParent(this.transform);
                     helditemrb.useGravity = false;
                     helditemrb.constraints = RigidbodyConstraints.FreezeRotation;
+                    helditemrb.constraints = RigidbodyConstraints.FreezePosition;
                     isholdingitem = true;
-                }
-                else if (isholdingitem == true)
-                {
-                    Debug.Log("Dropped " + helditem.gameObject.name);
-                    helditem.transform.parent = null;
-                    helditemrb.useGravity = true;
-                    helditemrb.constraints = RigidbodyConstraints.None;
-                    isholdingitem = false;
                 }
             }
         }
@@ -66,13 +67,23 @@ public class PickUpandThrow : MonoBehaviour
     {
         
        
-        helditemrb = helditem.GetComponent<Rigidbody>();
+        //helditemrb = helditem.GetComponent<Rigidbody>();
         direction = endpoint.transform.position - startpoint.transform.position;
         helditem.transform.parent = null;
         helditemrb.useGravity = true;
         helditemrb.constraints = RigidbodyConstraints.None;
-        // objectrb.AddForce(xray * yeetpwr,yray * yeetpwr, yeetpwr, ForceMode.Impulse);
         helditemrb.AddForce(direction * yeetpwr, ForceMode.Impulse);
         isholdingitem = false;
+    }
+    void DropObject()
+    {
+        if (isholdingitem == true)
+        {
+            Debug.Log("Dropped " + helditem.gameObject.name);
+            helditem.transform.parent = null;
+            helditemrb.useGravity = true;
+            helditemrb.constraints = RigidbodyConstraints.None;
+            isholdingitem = false;
+        }
     }
 }

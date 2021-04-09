@@ -8,6 +8,7 @@ public class PlayerMove : MonoBehaviour
     private Rigidbody torso;
     public float speed = 5.0f;
     public float jumppower = 9;
+    private bool touchfeet;
     // Start is called before the first frame update
     void Start()
     {
@@ -40,7 +41,11 @@ public class PlayerMove : MonoBehaviour
         }
         if (Input.GetKeyDown("space"))
         {
-            torso.AddForce(transform.up * jumppower, ForceMode.Impulse);
+            checkifgrounded();
+            if (touchfeet == true)
+            {
+                torso.AddForce(transform.up * jumppower, ForceMode.Impulse);
+            }
         }
         if (Input.GetKeyDown("left shift"))
         {
@@ -51,5 +56,20 @@ public class PlayerMove : MonoBehaviour
             speed = speed / 2;
         }
 
+    }
+    void checkifgrounded ()
+    {
+        RaycastHit poke;
+        float distance = 1f;
+        Vector3 dir = new Vector3(0, -1);
+
+        if (Physics.Raycast(transform.position, dir, out poke, distance))
+        {
+            touchfeet = true;
+        }
+        else
+        {
+            touchfeet = false;
+        }
     }
 }
