@@ -29,10 +29,14 @@ public class MouseLook : MonoBehaviour
         }
         if (ylock == false)
         {
-            rawyrotation += Input.GetAxis("Mouse Y") * sensx;
-            yrotation = Cangle(rawyrotation, maxdown, maxup);
-            Quaternion yqthing = Quaternion.AngleAxis(yrotation, -Vector3.right);
-            transform.localRotation = originalRotation * yqthing;
+            float mouseY = Input.GetAxis("Mouse Y") * sensx;
+            yrotation -= mouseY;
+            yrotation = Mathf.Clamp(yrotation, maxdown, maxup);
+            transform.localRotation = Quaternion.Euler(yrotation, 0f, 0f);
+            //rawyrotation += Input.GetAxis("Mouse Y") * sensx;
+            //yrotation = Cangle(rawyrotation, maxdown, maxup);
+            //Quaternion yqthing = Quaternion.AngleAxis(yrotation, -Vector3.right);
+            //transform.localRotation = originalRotation * yqthing;
           //  transform.Rotate(Vector3.left, yrotation);
         }
         //  xrotation += Input.GetAxis("Mouse X") * sensx;
