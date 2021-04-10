@@ -91,10 +91,11 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 89ea8d15a28dae843b9eee2c16cc7f6f, type: 2}
+  - {fileID: 2100000, guid: cf5a7bfd98c76f54f85114a4cf539561, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -115,6 +116,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!135 &5991499359468660674
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -150,7 +152,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5991499359468660684}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f5c16a11bad00a84eb0d29532b4f104d, type: 3}
+  m_Script: {fileID: 11500000, guid: bdcfaa5ca23b50b4296ce412e8b23362, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startpoint: {fileID: 5991499359468660684}
@@ -210,10 +212,11 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 89ea8d15a28dae843b9eee2c16cc7f6f, type: 2}
+  - {fileID: 2100000, guid: 9231523fd9090e444921104c7e422df7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -234,6 +237,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!136 &5991499359505061645
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -304,10 +308,11 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 89ea8d15a28dae843b9eee2c16cc7f6f, type: 2}
+  - {fileID: 2100000, guid: cf5a7bfd98c76f54f85114a4cf539561, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -328,6 +333,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!136 &5991499359611124108
 CapsuleCollider:
   m_ObjectHideFlags: 0
