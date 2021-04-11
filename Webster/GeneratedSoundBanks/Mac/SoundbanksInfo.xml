@@ -21,7 +21,7 @@
 			<ShortName>Footsteps</ShortName>
 			<Path>Footsteps.bnk</Path>
 			<IncludedEvents>
-				<Event Id="534461155" Name="AlienFS" ObjectPath="\Events\Default Work Unit\AlienFS">
+				<Event Id="534461155" Name="AlienFS" ObjectPath="\Events\Default Work Unit\AlienFS" DurationType="OneShot" DurationMin="0.743039" DurationMax="0.743039">
 					<IncludedMemoryFiles>
 						<File Id="761529798" Language="SFX">
 							<ShortName>AlienFS4.wav</ShortName>
@@ -41,7 +41,7 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="1069392698" Name="RobotFS" ObjectPath="\Events\Default Work Unit\RobotFS">
+				<Event Id="1069392698" Name="RobotFS" ObjectPath="\Events\Default Work Unit\RobotFS" DurationType="OneShot" DurationMin="0.743039" DurationMax="0.743039">
 					<IncludedMemoryFiles>
 						<File Id="345604535" Language="SFX">
 							<ShortName>RobotFS2.wav</ShortName>
@@ -102,7 +102,7 @@
 			<ShortName>Misc</ShortName>
 			<Path>Misc.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1584507803" Name="Click" ObjectPath="\Events\Default Work Unit\Click">
+				<Event Id="1584507803" Name="Click" ObjectPath="\Events\Default Work Unit\Click" DurationType="OneShot" DurationMin="0.743039" DurationMax="0.743039">
 					<IncludedMemoryFiles>
 						<File Id="127287456" Language="SFX">
 							<ShortName>Click.wav</ShortName>
@@ -123,7 +123,7 @@
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2557777556" Name="Main_Theme" ObjectPath="\Events\Default Work Unit\Main_Theme">
+				<Event Id="2557777556" Name="Main_Theme" ObjectPath="\Events\Default Work Unit\Main_Theme" DurationType="OneShot" DurationMin="118.758186" DurationMax="118.758186">
 					<IncludedMemoryFiles>
 						<File Id="639533644" Language="SFX">
 							<ShortName>Surround.wav</ShortName>

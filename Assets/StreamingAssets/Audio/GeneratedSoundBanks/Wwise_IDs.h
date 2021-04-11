@@ -14,6 +14,7 @@ namespace AK
     namespace EVENTS
     {
         static const AkUniqueID ALIENFS = 534461155U;
+        static const AkUniqueID CLICK = 1584507803U;
         static const AkUniqueID MAIN_THEME = 2557777556U;
         static const AkUniqueID ROBOTFS = 1069392698U;
     } // namespace EVENTS
@@ -38,13 +39,13 @@ namespace AK
     {
         static const AkUniqueID INIT = 1355168291U;
         static const AkUniqueID FOOTSTEPS = 2385628198U;
+        static const AkUniqueID MISC = 3062523257U;
         static const AkUniqueID MUSIC = 3991942870U;
     } // namespace BANKS
 
     namespace BUSSES
     {
         static const AkUniqueID MASTER_AUDIO_BUS = 3803692087U;
-        static const AkUniqueID MOTION_FACTORY_BUS = 985987111U;
     } // namespace BUSSES
 
     namespace AUDIO_DEVICES

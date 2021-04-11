@@ -417,8 +417,8 @@ MonoBehaviour:
         guid: ae70475bcab2bc4d94c04b1ddc6d92d3
       Path: Events/Default Work Unit/AlienFS
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.743039
+      minDuration: 0.743039
     - name: Click
       guid: 0041415dbaa10842ad42736aeabb8f4c
       id: 1584507803
@@ -434,8 +434,8 @@ MonoBehaviour:
         guid: 0041415dbaa10842ad42736aeabb8f4c
       Path: Events/Default Work Unit/Click
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.743039
+      minDuration: 0.743039
     - name: Main_Theme
       guid: f230ba9838b82a439641f58bad1765aa
       id: 2557777556
@@ -451,8 +451,8 @@ MonoBehaviour:
         guid: f230ba9838b82a439641f58bad1765aa
       Path: Events/Default Work Unit/Main_Theme
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 118.75819
+      minDuration: 118.75819
     - name: RobotFS
       guid: 7e5c40b7c849e34292cf2e3f0b2f1485
       id: 1069392698
@@ -468,8 +468,8 @@ MonoBehaviour:
         guid: 7e5c40b7c849e34292cf2e3f0b2f1485
       Path: Events/Default Work Unit/RobotFS
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 0.743039
+      minDuration: 0.743039
   RtpcWwu:
   - PhysicalPath: Game Parameters/Default Work Unit.wwu
     PathAndIcons:

@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Language="SFX" Hash="1958929096">
+		<SoundBank Id="1355168291" Language="SFX" Hash="2841289356">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
@@ -97,7 +97,28 @@
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
-		<SoundBank Id="3991942870" Language="SFX" Hash="1891266874">
+		<SoundBank Id="3062523257" Language="SFX" Hash="783246478">
+			<ObjectPath>\SoundBanks\Default Work Unit\Misc</ObjectPath>
+			<ShortName>Misc</ShortName>
+			<Path>Misc.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1584507803" Name="Click" ObjectPath="\Events\Default Work Unit\Click" DurationType="OneShot" DurationMin="0.743039" DurationMax="0.743039">
+					<IncludedMemoryFiles>
+						<File Id="127287456" Language="SFX">
+							<ShortName>Click.wav</ShortName>
+							<Path>SFX/Click_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="127287456" Language="SFX">
+					<ShortName>Click.wav</ShortName>
+					<Path>SFX/Click_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX" Hash="3787857229">
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
