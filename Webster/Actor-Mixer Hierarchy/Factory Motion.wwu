@@ -36,6 +36,7 @@
 														<Property Name="Volume" Type="Real64">
 															<ValueList>
 																<Value Platform="Windows">1</Value>
+																<Value Platform="Mac">1</Value>
 															</ValueList>
 														</Property>
 													</PropertyList>
@@ -65,6 +66,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -282,6 +284,7 @@
 														<Property Name="Volume" Type="Real64">
 															<ValueList>
 																<Value Platform="Windows">1</Value>
+																<Value Platform="Mac">1</Value>
 															</ValueList>
 														</Property>
 													</PropertyList>
@@ -311,6 +314,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -528,6 +532,7 @@
 														<Property Name="Volume" Type="Real64">
 															<ValueList>
 																<Value Platform="Windows">1</Value>
+																<Value Platform="Mac">1</Value>
 															</ValueList>
 														</Property>
 													</PropertyList>
@@ -557,6 +562,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -788,6 +794,7 @@
 														<Property Name="Volume" Type="Real64">
 															<ValueList>
 																<Value Platform="Windows">1</Value>
+																<Value Platform="Mac">1</Value>
 															</ValueList>
 														</Property>
 													</PropertyList>
@@ -817,6 +824,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -1034,6 +1042,7 @@
 														<Property Name="Volume" Type="Real64">
 															<ValueList>
 																<Value Platform="Windows">1</Value>
+																<Value Platform="Mac">1</Value>
 															</ValueList>
 														</Property>
 													</PropertyList>
@@ -1063,6 +1072,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -1280,6 +1290,7 @@
 														<Property Name="Volume" Type="Real64">
 															<ValueList>
 																<Value Platform="Windows">1</Value>
+																<Value Platform="Mac">1</Value>
 															</ValueList>
 														</Property>
 													</PropertyList>
@@ -1309,6 +1320,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -1559,6 +1571,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -1666,6 +1679,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -1773,6 +1787,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -1892,6 +1907,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverB" Type="Real32">
@@ -2000,6 +2016,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverB" Type="Real32">
@@ -2108,6 +2125,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverB" Type="Real32">
@@ -2223,6 +2241,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverB" Type="Real32">
@@ -2331,6 +2350,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverB" Type="Real32">
@@ -2439,6 +2459,7 @@
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverB" Type="Real32">
@@ -2534,6 +2555,7 @@
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">1</Value>
+														<Value Platform="Mac">1</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -2564,6 +2586,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -2654,6 +2677,7 @@
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">1</Value>
+														<Value Platform="Mac">1</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -2684,6 +2708,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -2774,6 +2799,7 @@
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">1</Value>
+														<Value Platform="Mac">1</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -2804,6 +2830,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -2924,6 +2951,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -3025,6 +3053,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -3126,6 +3155,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -3210,6 +3240,7 @@
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">1</Value>
+														<Value Platform="Mac">1</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -3239,6 +3270,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -3322,6 +3354,7 @@
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">1</Value>
+														<Value Platform="Mac">1</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -3351,6 +3384,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -3445,6 +3479,7 @@
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">1</Value>
+														<Value Platform="Mac">1</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -3474,6 +3509,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -3599,6 +3635,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -3863,6 +3900,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -4112,6 +4150,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -4249,6 +4288,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -4419,6 +4459,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -4597,6 +4638,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -4871,6 +4913,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -5100,6 +5143,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -5272,6 +5316,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -5417,6 +5462,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -5663,6 +5709,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -5810,6 +5857,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -6014,6 +6062,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -6118,6 +6167,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -6297,6 +6347,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -6555,6 +6606,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -6797,6 +6849,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -7077,6 +7130,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -7289,6 +7343,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -7516,6 +7571,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -7718,6 +7774,7 @@
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -7937,6 +7994,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -8192,6 +8250,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -8361,6 +8420,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -8485,6 +8545,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -8849,6 +8910,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 										<Property Name="Volume" Type="Real64">
 											<ValueList>
 												<Value Platform="Windows">-3</Value>
+												<Value Platform="Mac">-3</Value>
 											</ValueList>
 										</Property>
 									</PropertyList>
@@ -8867,12 +8929,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -8888,6 +8952,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -9197,12 +9262,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -9218,6 +9285,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -9920,12 +9988,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -9941,6 +10011,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -10982,12 +11053,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -11003,6 +11076,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -11641,12 +11715,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -11662,6 +11738,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -12365,12 +12442,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -12386,6 +12465,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -13026,12 +13106,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -13047,6 +13129,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -14045,12 +14128,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -14066,6 +14151,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -15581,6 +15667,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 										<Property Name="Volume" Type="Real64">
 											<ValueList>
 												<Value Platform="Windows">-1.5</Value>
+												<Value Platform="Mac">-1.5</Value>
 											</ValueList>
 										</Property>
 									</PropertyList>
@@ -15599,12 +15686,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -15620,6 +15709,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -18497,12 +18587,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Channel1" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">4</Value>
+														<Value Platform="Mac">4</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel2" Type="int16">
 													<ValueList>
 														<Value>1</Value>
 														<Value Platform="Windows">5</Value>
+														<Value Platform="Mac">5</Value>
 													</ValueList>
 												</Property>
 												<Property Name="Channel3" Type="int16">
@@ -18518,6 +18610,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="ChannelConfig" Type="int16">
 													<ValueList>
 														<Value Platform="Windows">7</Value>
+														<Value Platform="Mac">7</Value>
 													</ValueList>
 												</Property>
 												<Property Name="DriverA" Type="Real32">
@@ -19253,6 +19346,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -19447,6 +19541,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -19644,6 +19739,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -19872,6 +19968,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -20076,6 +20173,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -20176,6 +20274,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -20287,6 +20386,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -20387,6 +20487,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -20505,6 +20606,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -20695,6 +20797,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -20896,6 +20999,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -21086,6 +21190,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 																<Property Name="ChannelConfig" Type="int16">
 																	<ValueList>
 																		<Value Platform="Windows">7</Value>
+																		<Value Platform="Mac">7</Value>
 																	</ValueList>
 																</Property>
 																<Property Name="DriverA" Type="Real32">
@@ -21265,6 +21370,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">0</Value>
+														<Value Platform="Mac">0</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -21283,6 +21389,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 															<ValueList>
 																<Value>1</Value>
 																<Value Platform="Windows">2</Value>
+																<Value Platform="Mac">2</Value>
 															</ValueList>
 														</Property>
 														<Property Name="Channel3" Type="int16">
@@ -21298,6 +21405,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -21451,6 +21559,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">0</Value>
+														<Value Platform="Mac">0</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -21469,6 +21578,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 															<ValueList>
 																<Value>1</Value>
 																<Value Platform="Windows">2</Value>
+																<Value Platform="Mac">2</Value>
 															</ValueList>
 														</Property>
 														<Property Name="Channel3" Type="int16">
@@ -21484,6 +21594,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverA" Type="Real32">
@@ -21637,6 +21748,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">0</Value>
+														<Value Platform="Mac">0</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -21654,12 +21766,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="Channel1" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">1</Value>
+																<Value Platform="Mac">1</Value>
 															</ValueList>
 														</Property>
 														<Property Name="Channel2" Type="int16">
 															<ValueList>
 																<Value>1</Value>
 																<Value Platform="Windows">3</Value>
+																<Value Platform="Mac">3</Value>
 															</ValueList>
 														</Property>
 														<Property Name="Channel3" Type="int16">
@@ -21675,6 +21789,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">
@@ -21829,6 +21944,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 												<Property Name="Volume" Type="Real64">
 													<ValueList>
 														<Value Platform="Windows">0</Value>
+														<Value Platform="Mac">0</Value>
 													</ValueList>
 												</Property>
 											</PropertyList>
@@ -21846,12 +21962,14 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="Channel1" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">1</Value>
+																<Value Platform="Mac">1</Value>
 															</ValueList>
 														</Property>
 														<Property Name="Channel2" Type="int16">
 															<ValueList>
 																<Value>1</Value>
 																<Value Platform="Windows">3</Value>
+																<Value Platform="Mac">3</Value>
 															</ValueList>
 														</Property>
 														<Property Name="Channel3" Type="int16">
@@ -21867,6 +21985,7 @@ Route your music, using an user-defined aux bus, to the Wwise Motion bus. </Comm
 														<Property Name="ChannelConfig" Type="int16">
 															<ValueList>
 																<Value Platform="Windows">7</Value>
+																<Value Platform="Mac">7</Value>
 															</ValueList>
 														</Property>
 														<Property Name="DriverB" Type="Real32">

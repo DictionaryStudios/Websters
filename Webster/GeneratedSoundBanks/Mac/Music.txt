@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2557777556	Main_Theme			\Default Work Unit\Main_Theme	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	639533644	Surround	Y:\Documents\GitHub\Websters\Webster\.cache\Mac\SFX\Surround_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Surround		62847008
+

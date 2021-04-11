@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	534461155	AlienFS			\Default Work Unit\AlienFS	
+	1069392698	RobotFS			\Default Work Unit\RobotFS	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	345604535	RobotFS2	Y:\Documents\GitHub\Websters\Webster\.cache\Mac\SFX\RobotFS2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\RobotFS\RobotFS2		131216
+	640953332	RobotFS3	Y:\Documents\GitHub\Websters\Webster\.cache\Mac\SFX\RobotFS3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\RobotFS\RobotFS3		131216
+	761529798	AlienFS4	Y:\Documents\GitHub\Websters\Webster\.cache\Mac\SFX\AlienFS4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AlienFS\AlienFS4		131216
+	880745434	AlienFS3	Y:\Documents\GitHub\Websters\Webster\.cache\Mac\SFX\AlienFS3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AlienFS\AlienFS3		131216
+	942747175	RobotFS1	Y:\Documents\GitHub\Websters\Webster\.cache\Mac\SFX\RobotFS1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\RobotFS\RobotFS1		131216
+	998934279	AlienFS2	Y:\Documents\GitHub\Websters\Webster\.cache\Mac\SFX\AlienFS2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AlienFS\AlienFS2		131216
+	1029098199	RobotFS4	Y:\Documents\GitHub\Websters\Webster\.cache\Mac\SFX\RobotFS4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\RobotFS\RobotFS4		131216
+	1067938034	AlienFS1	Y:\Documents\GitHub\Websters\Webster\.cache\Mac\SFX\AlienFS1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AlienFS\AlienFS1		131216
+

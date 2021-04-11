@@ -13,8 +13,9 @@ namespace AK
 {
     namespace EVENTS
     {
-        static const AkUniqueID FOOTSTEPS = 2385628198U;
-        static const AkUniqueID MAIN_MENU_THEME = 1878720482U;
+        static const AkUniqueID ALIENFS = 534461155U;
+        static const AkUniqueID MAIN_THEME = 2557777556U;
+        static const AkUniqueID ROBOTFS = 1069392698U;
     } // namespace EVENTS
 
     namespace GAME_PARAMETERS
