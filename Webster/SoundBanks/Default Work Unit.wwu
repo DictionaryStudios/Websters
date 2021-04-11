@@ -21,6 +21,14 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="Misc" ID="{EBF52E46-C1BF-48E0-9D89-64B819C29B7C}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Click" ID="{5D414100-A1BA-4208-AD42-736AEABB8F4C}" WorkUnitID="{68677CDD-E549-4020-AA8E-EA267AC93362}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Click" ID="{6D9ACEDF-ADC6-47E2-8AE0-F7EAB6FBF8A1}" WorkUnitID="{16BA2201-A3CA-4F8C-845B-17F74EF9A834}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>

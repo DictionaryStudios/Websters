@@ -215,6 +215,13 @@
 				</RandomSequenceContainer>
 				<Folder Name="New Virtual Folder" ID="{2348CBED-22BD-430F-8BE6-5E277CBEE018}" ShortID="549519022"/>
 				<Sound Name="Surround" ID="{3BAFE6D7-A82C-441E-A740-232050DDF9C0}" ShortID="777080247">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-12</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
@@ -237,6 +244,49 @@
 						<ActiveSource Name="Surround" ID="{A46199A0-E24E-4999-A374-841E4239576D}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<RandomSequenceContainer Name="Click" ID="{6D9ACEDF-ADC6-47E2-8AE0-F7EAB6FBF8A1}" ShortID="1015939755">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>8</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Click" ID="{56293629-6F13-406F-B8EA-91CE45D5A447}" ShortID="228397495">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{6BEF2CB0-C1BA-4D4D-9FB3-A94D68E118CF}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{DB3A2171-6F2B-4AEE-B1D5-2D407D777BB2}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Click" ID="{C004AD46-9FB4-4BE5-B39C-8ED8F6F56349}">
+									<Language>SFX</Language>
+									<AudioFile>Click.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="127287456"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Click" ID="{C004AD46-9FB4-4BE5-B39C-8ED8F6F56349}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists/>
+				</RandomSequenceContainer>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

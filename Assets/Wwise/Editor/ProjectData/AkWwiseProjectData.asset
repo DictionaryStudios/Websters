@@ -303,7 +303,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy/Default Work Unit
     guid: 71213adb2b6fee4ab1d52d407d777bb2
     GuidInternal: 
-    m_lastTime: -8585834937814775808
+    m_lastTime: -8585834420444775808
     List:
     - name: Master Audio Bus
       guid: d8a41415a61d2a41a17e75ca0c2149f3
@@ -319,20 +319,6 @@ MonoBehaviour:
         ObjectType: 2
         guid: d8a41415a61d2a41a17e75ca0c2149f3
       Path: Master-Mixer Hierarchy/Default Work Unit/Master Audio Bus
-    - name: Motion Factory Bus
-      guid: c6b9f92af16ee946b5f2e30c9e602c74
-      id: 985987111
-      PathAndIcons:
-      - ElementName: Master-Mixer Hierarchy
-        ObjectType: 5
-        guid: 00000000000000000000000000000000
-      - ElementName: Default Work Unit
-        ObjectType: 12
-        guid: 71213adb2b6fee4ab1d52d407d777bb2
-      - ElementName: Motion Factory Bus
-        ObjectType: 2
-        guid: c6b9f92af16ee946b5f2e30c9e602c74
-      Path: Master-Mixer Hierarchy/Default Work Unit/Motion Factory Bus
   BankWwu:
   - PhysicalPath: SoundBanks/Default Work Unit.wwu
     PathAndIcons:
@@ -345,7 +331,7 @@ MonoBehaviour:
     ParentPath: SoundBanks/Default Work Unit
     guid: af9e85b14538bf4981aaec5db8fa9c98
     GuidInternal: 
-    m_lastTime: -8585834937804775808
+    m_lastTime: -8585834420634775808
     List:
     - name: Footsteps
       guid: de82f67bf766dc42ae5b24f67c6e40bb
@@ -361,6 +347,20 @@ MonoBehaviour:
         ObjectType: 7
         guid: de82f67bf766dc42ae5b24f67c6e40bb
       Path: SoundBanks/Default Work Unit/Footsteps
+    - name: Misc
+      guid: 462ef5ebbfc1e0489d8964b819c29b7c
+      id: 3062523257
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: af9e85b14538bf4981aaec5db8fa9c98
+      - ElementName: Misc
+        ObjectType: 7
+        guid: 462ef5ebbfc1e0489d8964b819c29b7c
+      Path: SoundBanks/Default Work Unit/Misc
     - name: Music
       guid: 88bfd68c6a8e2242b458bec168f05230
       id: 3991942870
@@ -400,7 +400,7 @@ MonoBehaviour:
     ParentPath: Events/Default Work Unit
     guid: dd7c676849e52040aa8eea267ac93362
     GuidInternal: 
-    m_lastTime: -8585834937804775808
+    m_lastTime: -8585834420634775808
     List:
     - name: AlienFS
       guid: ae70475bcab2bc4d94c04b1ddc6d92d3
@@ -417,8 +417,25 @@ MonoBehaviour:
         guid: ae70475bcab2bc4d94c04b1ddc6d92d3
       Path: Events/Default Work Unit/AlienFS
       maxAttenuation: 0
-      maxDuration: 0.743039
-      minDuration: 0.743039
+      maxDuration: -1
+      minDuration: -1
+    - name: Click
+      guid: 0041415dbaa10842ad42736aeabb8f4c
+      id: 1584507803
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: dd7c676849e52040aa8eea267ac93362
+      - ElementName: Click
+        ObjectType: 3
+        guid: 0041415dbaa10842ad42736aeabb8f4c
+      Path: Events/Default Work Unit/Click
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
     - name: Main_Theme
       guid: f230ba9838b82a439641f58bad1765aa
       id: 2557777556
@@ -434,8 +451,8 @@ MonoBehaviour:
         guid: f230ba9838b82a439641f58bad1765aa
       Path: Events/Default Work Unit/Main_Theme
       maxAttenuation: 0
-      maxDuration: 118.75819
-      minDuration: 118.75819
+      maxDuration: -1
+      minDuration: -1
     - name: RobotFS
       guid: 7e5c40b7c849e34292cf2e3f0b2f1485
       id: 1069392698
@@ -451,8 +468,8 @@ MonoBehaviour:
         guid: 7e5c40b7c849e34292cf2e3f0b2f1485
       Path: Events/Default Work Unit/RobotFS
       maxAttenuation: 0
-      maxDuration: 0.743039
-      minDuration: 0.743039
+      maxDuration: -1
+      minDuration: -1
   RtpcWwu:
   - PhysicalPath: Game Parameters/Default Work Unit.wwu
     PathAndIcons:
@@ -704,7 +721,7 @@ MonoBehaviour:
     m_lastTime: -8585834937794775808
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 0600000007000000080000000e0000000f00000010000000
+  ExpandedWaapiItemIds: 0600000007000000080000000d0000000e0000000f00000010000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0

@@ -4,6 +4,7 @@
 		<UserProjectSettings Name="" ID="{931380FD-2016-44B5-9BEB-4CA2E9540E93}">
 			<PropertyList>
 				<Property Name="Event Action List\{5B4770AE-B2CA-4DBC-94C0-4B1DDC6D92D3}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{5D414100-A1BA-4208-AD42-736AEABB8F4C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{98BA30F2-B838-432A-9641-F58BAD1765AA}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{B7405C7E-49C8-42E3-92CF-2E3F0B2F1485}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
@@ -24,7 +25,7 @@
 				<Property Name="General\LatestPlatform" Type="string" Value="Windows"/>
 				<Property Name="General\SourceControlPluginID" Type="string" Value="{C403A906-0C19-4ED5-808E-748707065301}"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="NyVvdiTJXkedF96yzMZQbw=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="JDbwGlHhc0iMKtpG1Za+gDclb3YkyV5HnRfesszGUG8="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="3oL2e/dm3EKuWyT2fG5Au4i/1oxqjiJCtFi+wWjwUjA="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>

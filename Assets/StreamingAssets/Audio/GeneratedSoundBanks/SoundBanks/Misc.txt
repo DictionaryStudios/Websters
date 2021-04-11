@@ -2,5 +2,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	1584507803	Click			\Default Work Unit\Click	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	931589145	Click	Y:\Documents\GitHub\Websters\Webster\.cache\Windows\SFX\Click_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Click\Click		131216
+	127287456	Click	Y:\Documents\GitHub\Websters\Webster\.cache\Windows\SFX\Click_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Click\Click		131216
 
