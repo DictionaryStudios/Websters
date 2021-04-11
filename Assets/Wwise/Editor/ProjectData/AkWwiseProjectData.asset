@@ -303,7 +303,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy/Default Work Unit
     guid: 71213adb2b6fee4ab1d52d407d777bb2
     GuidInternal: 
-    m_lastTime: -8585834420444775808
+    m_lastTime: -8585834397934775808
     List:
     - name: Master Audio Bus
       guid: d8a41415a61d2a41a17e75ca0c2149f3
@@ -331,7 +331,7 @@ MonoBehaviour:
     ParentPath: SoundBanks/Default Work Unit
     guid: af9e85b14538bf4981aaec5db8fa9c98
     GuidInternal: 
-    m_lastTime: -8585834420634775808
+    m_lastTime: -8585834397934775808
     List:
     - name: Footsteps
       guid: de82f67bf766dc42ae5b24f67c6e40bb
@@ -400,7 +400,7 @@ MonoBehaviour:
     ParentPath: Events/Default Work Unit
     guid: dd7c676849e52040aa8eea267ac93362
     GuidInternal: 
-    m_lastTime: -8585834420634775808
+    m_lastTime: -8585834397934775808
     List:
     - name: AlienFS
       guid: ae70475bcab2bc4d94c04b1ddc6d92d3
