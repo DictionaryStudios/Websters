@@ -8,10 +8,12 @@ public class AutoTurret : MonoBehaviour
     private GameObject endpoint;
     //start and end points for bullet direction vector
     private Vector3 direction;
+
+    private float health;
     // Start is called before the first frame update
     void Start()
     {
-        
+        health = 100f;
     }
 
     // Update is called once per frame
@@ -27,6 +29,15 @@ public class AutoTurret : MonoBehaviour
             direction = endpoint.transform.position - startpoint.transform.position;
             transform.rotation = Quaternion.LookRotation(direction);
             //when object enters area create vecotor from turret to object and shoot projectile using existing code
+        }
+    }
+
+    public void Takedamage(float damage)
+    {
+        health -= damage;
+        if (health <= 0)
+        {
+            Destroy(transform.parent.gameObject);
         }
     }
 

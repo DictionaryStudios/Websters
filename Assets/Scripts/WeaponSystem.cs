@@ -11,16 +11,13 @@ public class WeaponSystem : MonoBehaviour
     // weapon equipped
     // ranged weapon list:
     // 0 for pistol
-    // 1 for automatic rifle
-    // 2 for ranged rifle
-    // 3 for shotgun
     // melee weapon list:
     // 0 for knife
     public int weapon;
     // ranged weapon stats
-    public int ranged_damage;
-    public int range;
-    public int rate_of_fire;
+    public float ranged_damage;
+    public float range;
+    public float rate_of_fire;
     public int clip_size;
     public int max_ammo_size;
     // melee weapon stats
