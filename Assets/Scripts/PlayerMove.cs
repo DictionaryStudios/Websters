@@ -2,22 +2,38 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class PlayerMove : MonoBehaviour
+using Photon.Pun;
+
+public class PlayerMove : MonoBehaviourPunCallbacks
 {
     public GameObject body;
     private Rigidbody torso;
     public float speed = 5.0f;
     public float jumppower = 9;
     private bool touchfeet;
+
+    PhotonView PV;
+
+    // PhotonViewer PV;
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
        torso  = body.GetComponent<Rigidbody>();
+       PV = gameObject.GetComponentInParent<PhotonView>();
+    }
+
+    void Start(){
+        if(!PV.IsMine){
+            Destroy(GetComponentInChildren<Camera>().gameObject);
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(!PV.IsMine){
+            return;
+        }
         if (Input.GetKey("escape"))
         {
             SceneManager.LoadScene(0);
